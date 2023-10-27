@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(247, 253, 244);
+}
+
+h1 {
+    color: rgb(87, 5, 70);
+    font-size: 57px;
+    text-align: center;
+    margin-top: 27px;
+    text-shadow: 5px 5px 3px #efc0e0;
+    font-weight: bold;
+}
+
+#myform {
+    margin-left: 310px;
+    margin-top: 25px;
+}
+
+input {
+    font-size: 35px;
+    margin: 2px;
+    height: 10vh;
+    border-radius: 8px;
+    background-color: #f41d1d;
+    width: 12vw;
+    color: rgb(19, 8, 8);
+}
+
+input:hover {
+    background-color: #ffdaf4;
+}
